@@ -1,0 +1,5 @@
+Cores/threads, OpenMP, MPI, Serial
+1,,,310
+2,470,320,
+4,420,120,
+8,410,70,
